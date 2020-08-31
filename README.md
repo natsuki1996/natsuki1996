@@ -1,4 +1,4 @@
-### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=natsuki1996)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **natsuki1996/natsuki1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
